@@ -4,3 +4,9 @@
 
 # Ignore Excel lock files
 *~$*
+
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
